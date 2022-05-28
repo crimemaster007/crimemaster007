@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tushar Kumar Singh</h1>
+<h1 align="center">Hello World ❤👋, I'm Tushar Kumar Singh</h1>
 
 
 * A Final Year Undergrad BTech(CSE) student. I am a passionate Competitive Programmer and am highly interested in Algorithmic Problem Solving with a firm grasp in Data Structures and Algorithms.
