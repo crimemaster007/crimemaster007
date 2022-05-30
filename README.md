@@ -19,6 +19,8 @@
 <p align="left"> <a href="https://twitter.com/_prachand_" target="blank"><img src="https://img.shields.io/twitter/follow/_prachand_?logo=twitter&style=for-the-badge" alt="_prachand_" /></a> </p>
 
 
+<img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 🌱 I’m currently learning **Front-end web development**
 
 - 💬 Ask me about **Competitive programming, Data structures & algorithms.**
