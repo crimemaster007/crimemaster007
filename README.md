@@ -1,6 +1,6 @@
 <h1 >Hello World ❤👋, I'm Tushar Kumar Singh</h1>
+<img src="https://user-images.githubusercontent.com/71402528/106022694-225cfd80-60ec-11eb-9d3d-78cf6bf8d2ef.gif" height="400px" width="750px" alt="Twitter" align="center">
 
-<img  alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 
 * A Final Year Undergrad BTech ( CSE'23 ) student. I am a passionate Competitive Programmer and am highly interested in Algorithmic Problem Solving with a firm grasp in Data Structures and Algorithms.
@@ -17,6 +17,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crimemaster007&label=Profile%20views&color=0e75b6&style=flat" alt="crimemaster007" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_prachand_" target="blank"><img src="https://img.shields.io/twitter/follow/_prachand_?logo=twitter&style=for-the-badge" alt="_prachand_" /></a> </p>
+
 
 - 🌱 I’m currently learning **Front-end web development**
 
