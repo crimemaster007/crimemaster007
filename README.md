@@ -1,4 +1,6 @@
-<h1 align="center">Hello World ❤👋, I'm Tushar Kumar Singh</h1>
+<h1 >Hello World ❤👋, I'm Tushar Kumar Singh</h1>
+
+<img  alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 
 * A Final Year Undergrad BTech ( CSE'23 ) student. I am a passionate Competitive Programmer and am highly interested in Algorithmic Problem Solving with a firm grasp in Data Structures and Algorithms.
