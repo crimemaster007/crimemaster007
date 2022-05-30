@@ -1,4 +1,4 @@
-<h1 >Hello World ❤👋, I'm Tushar Kumar Singh</h1>
+<h1 align="center" >Hello World ❤👋, I'm Tushar Kumar Singh</h1>
 <img src="https://user-images.githubusercontent.com/71402528/106022694-225cfd80-60ec-11eb-9d3d-78cf6bf8d2ef.gif" height="400px" width="750px" alt="Twitter" align="center">
 
 
