@@ -1,5 +1,5 @@
 <h1 align="center" >Hello World ❤👋, I'm Tushar Kumar Singh</h1>
-<img src="https://github.com/crimemaster007/crimemaster007/blob/main/wepik--202251-163251.png" height="350px" width="1050px" alt="Twitter" align="center">
+<img src="https://github.com/crimemaster007/crimemaster007/blob/main/wepik--202251-163251.png" height="300px" width="900px" alt="Twitter" align="center">
 
 
 
