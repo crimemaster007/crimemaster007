@@ -46,5 +46,5 @@
 
 <br>
 <h4><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crimemaster007&show_icons=true&locale=en&layout=compact" alt="crimemaster007" /></h4>
-<br>
+
 <h4><img align="left" src="https://github-readme-stats.vercel.app/api?username=crimemaster007&show_icons=true&locale=en" alt="crimemaster007" /></h4>
