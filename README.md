@@ -3,7 +3,7 @@
 
 
 
-* A Final Year Undergrad BTech ( CSE'23 ) student. I am a passionate Competitive Programmer and am highly interested in Algorithmic Problem Solving with a firm grasp in Data Structures and Algorithms.
+* A Final Year Undergrad BTech ( CSE ) student. I am a passionate Competitive Programmer and am highly interested in Algorithmic Problem Solving with a firm grasp in Data Structures and Algorithms.
 * I am currently looking for SDE opportunities.
 
 
