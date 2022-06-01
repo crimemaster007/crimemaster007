@@ -1,5 +1,5 @@
 <h1 align="center" >Hello World ❤👋, I'm Tushar Kumar Singh</h1>
-<img src="https://user-images.githubusercontent.com/71402528/106022694-225cfd80-60ec-11eb-9d3d-78cf6bf8d2ef.gif" height="400px" width="750px" alt="Twitter" align="center">
+<img src="https://github.com/crimemaster007/crimemaster007/blob/main/wepik--202251-162018.png" height="450px" width="1050px" alt="Twitter" align="center">
 
 
 
@@ -46,4 +46,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crimemaster007&show_icons=true&locale=en&layout=compact" alt="crimemaster007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crimemaster007&show_icons=true&locale=en" alt="crimemaster007" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=crimemaster007&show_icons=true&locale=en" alt="crimemaster007" /></p>
