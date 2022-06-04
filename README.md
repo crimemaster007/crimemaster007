@@ -1,4 +1,5 @@
 <!-- <h1 align="center" >Hello World ❤</h1> -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Tushar+Kumar....;Front+End+Web+Developer;Competitive+Programmer!&center=true&size=30">
 <img src="https://github.com/crimemaster007/crimemaster007/blob/main/wepik--202251-16540.png" height="300px" width="900px" alt="Twitter" align="center">
 
 
